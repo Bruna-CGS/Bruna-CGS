@@ -57,6 +57,8 @@ Translational bioinformatics
 
 ---
 
-## Contribution Activity
+## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/Bruna-CGS/Bruna-CGS/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bruna-CGS/Bruna-CGS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
