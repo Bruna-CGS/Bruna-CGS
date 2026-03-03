@@ -2,10 +2,8 @@
 
 <p align="center">
 Biomedical Scientist | MSc | Postgraduate in Bioinformatics  
-</p>
-
-<p align="center">
-Bioinformatics • Genomics • Computational Biology  
+<br>
+Bioinformatics • Genomics • Computational Biology
 </p>
 
 <p align="center">
@@ -19,9 +17,15 @@ Bioinformatics • Genomics • Computational Biology
 
 ---
 
+## Professional Profile
+
+Biomedical Scientist with expertise in experimental pathology and computational genomics.
+
+Completed postgraduate training in Bioinformatics, integrating molecular biology with reproducible data-driven analysis to support genomic research and precision medicine.
+
 ---
 
-## 🎓 Education
+## Education
 
 - MSc — Environmental & Experimental Pathology  
 - BSc — Biomedicine  
@@ -30,7 +34,7 @@ Bioinformatics • Genomics • Computational Biology
 
 ---
 
-## 🧠 Technical Expertise
+## Technical Expertise
 
 **Programming**  
 Python • BioPython • R • Bash  
@@ -44,7 +48,7 @@ Linux (CLI) • Git • Reproducible workflows
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 Genomic data analysis  
 Variant interpretation  
@@ -53,6 +57,6 @@ Translational bioinformatics
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 ![Snake animation](https://github.com/Bruna-CGS/Bruna-CGS/blob/output/github-contribution-grid-snake.svg)
