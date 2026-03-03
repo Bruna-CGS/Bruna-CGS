@@ -1,7 +1,7 @@
 <h1 align="center">Bruna Cristina Garcia</h1>
 
 <p align="center">
-Biomedical Scientist | MSc | Postgraduate in Bioinformatics  
+Biomedical Scientist (MSc) transitioning into Bioinformatics
 <br>
 Bioinformatics • Genomics • Computational Biology
 </p>
@@ -15,7 +15,6 @@ Bioinformatics • Genomics • Computational Biology
 </a>
 </p>
 
----
 
 ## Professional Profile
 
@@ -60,5 +59,5 @@ Translational bioinformatics
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bruna-CGS/Bruna-CGS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Bruna-CGS/Bruna-CGS/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
